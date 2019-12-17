@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1530082083 source:f:\git\my_git\set_uart_baudrate\src\ftdi.c
+	"ftdi.h"
+	<string.h>
+	<stdlib.h>
+
+1530082083 f:\git\my_git\set_uart_baudrate\src\ftdi.h
+	"ftd2xx.h"
+	<stdint.h>
+
+1530082083 f:\git\my_git\set_uart_baudrate\src\ftd2xx.h
+	<pthread.h>
+	"WinTypes.h"
+	<windows.h>
+
+1530082083 f:\git\my_git\set_uart_baudrate\src\wintypes.h
+	<sys/time.h>
+
+1576594615 source:f:\git\my_git\set_uart_baudrate\src\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"http.h"
+	"ftdi.h"
+	<windows.h>
+	<unistd.h>
+
